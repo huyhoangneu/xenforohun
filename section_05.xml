@@ -124,31 +124,31 @@
   <phrase title="move_up" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Move up]]></phrase>
   <phrase title="multiple_votes_allowed" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Multiple votes are allowed.]]></phrase>
   <phrase title="must_be_in_same_permission_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Must be in the same permission group.]]></phrase>
-  <phrase title="must_be_registered" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[You must be a logged-in, registered member of this site to perform this action.]]></phrase>
-  <phrase title="must_be_unique" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Must be unique]]></phrase>
+  <phrase title="must_be_registered" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[A mûvelet végrehajtásához be kell jelentkezned.]]></phrase>
+  <phrase title="must_be_unique" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Egyedinek kell lennie]]></phrase>
   <phrase title="must_wait_x_seconds_before_performing_this_action" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[You must wait at least {count} seconds before performing this action.]]></phrase>
-  <phrase title="mysql_database_name" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[MySQL Database Name]]></phrase>
+  <phrase title="mysql_database_name" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[MySQL Adatbázis Név]]></phrase>
   <phrase title="mysql_password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[MySQL jelszó]]></phrase>
   <phrase title="mysql_port" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[MySQL Port]]></phrase>
-  <phrase title="mysql_server" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[MySQL Server]]></phrase>
-  <phrase title="mysql_user_name" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[MySQL User name]]></phrase>
-  <phrase title="my_thread_title" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[My Thread Title]]></phrase>
-  <phrase title="my_thread_title_sentence_case" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[My thread title]]></phrase>
-  <phrase title="my_thread_title_title_case" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[My Thread Title]]></phrase>
-  <phrase title="name" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Name]]></phrase>
+  <phrase title="mysql_server" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[MySQL Szerver]]></phrase>
+  <phrase title="mysql_user_name" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[MySQL Felhasználói név]]></phrase>
+  <phrase title="my_thread_title" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Témám címe]]></phrase>
+  <phrase title="my_thread_title_sentence_case" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Témám címe]]></phrase>
+  <phrase title="my_thread_title_title_case" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Témám címe]]></phrase>
+  <phrase title="name" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Név]]></phrase>
   <phrase title="named_colors" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Named Colors]]></phrase>
   <phrase title="named_parameter_not_specified_correctly" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Named parameter not specified correctly.]]></phrase>
   <phrase title="named_template" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Named Template]]></phrase>
-  <phrase title="name_or_email" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Name or Email]]></phrase>
-  <phrase title="never" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Never]]></phrase>
-  <phrase title="new" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[New]]></phrase>
-  <phrase title="newer" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Newer]]></phrase>
-  <phrase title="newer_than" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Newer Than]]></phrase>
-  <phrase title="newest_members" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Newest Members]]></phrase>
-  <phrase title="newest_registrations" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Newest Registrations]]></phrase>
+  <phrase title="name_or_email" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Név vagy E-mail]]></phrase>
+  <phrase title="never" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Soha]]></phrase>
+  <phrase title="new" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Új]]></phrase>
+  <phrase title="newer" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Újabb]]></phrase>
+  <phrase title="newer_than" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Újabb, mint]]></phrase>
+  <phrase title="newest_members" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Legújabb Tagjaink]]></phrase>
+  <phrase title="newest_registrations" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Legújabb Regisztrációk]]></phrase>
   <phrase title="news_feed" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Újdonságok Feed]]></phrase>
   <phrase title="news_feed_disabled" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The news feed is currently disabled. This may be a temporary performance-saving measure if the site is very busy at present.]]></phrase>
-  <phrase title="news_feed_is_currently_empty" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[The news feed is currently empty.]]></phrase>
+  <phrase title="news_feed_is_currently_empty" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Az újdonságok feed jelenleg üres.]]></phrase>
   <phrase title="news_feed_item_hidden_successfully" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[News feed item successfully hidden.]]></phrase>
   <phrase title="news_feed_post_insert" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{username} replied to the thread {threadTitle}.]]></phrase>
   <phrase title="news_feed_post_insert_attachment" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[{username} attached a file to the thread {threadTitle}.]]></phrase>
@@ -162,20 +162,20 @@
   <phrase title="news_feed_user_location_set" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{username} set their location as {newLocation}.]]></phrase>
   <phrase title="news_feed_user_occupation_changed" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{username} changed their occupation from {oldOccupation} to {newOccupation}.]]></phrase>
   <phrase title="news_feed_user_occupation_set" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{username} set their occupation to {newOccupation}.]]></phrase>
-  <phrase title="new_attachments" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[New Attachments]]></phrase>
-  <phrase title="new_follower" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[New follower]]></phrase>
-  <phrase title="new_interface_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[New Interface Group]]></phrase>
+  <phrase title="new_attachments" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Új csatolmányok]]></phrase>
+  <phrase title="new_follower" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Új követõ]]></phrase>
+  <phrase title="new_interface_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Új interfész csoport]]></phrase>
   <phrase title="new_password" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Új jelszó]]></phrase>
-  <phrase title="new_permission" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[New Permission]]></phrase>
-  <phrase title="new_permission_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[New Permission Group]]></phrase>
-  <phrase title="new_registrations_currently_not_being_accepted" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[New registrations are currently not being accepted.]]></phrase>
-  <phrase title="new_threads" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[New Threads]]></phrase>
-  <phrase title="new_thread_title" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[New Thread Title]]></phrase>
-  <phrase title="new_trophy" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[New trophy]]></phrase>
-  <phrase title="next" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Next]]></phrase>
-  <phrase title="next_run" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Next Run]]></phrase>
-  <phrase title="no" addon_id="XenForo" global_cache="0" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[No]]></phrase>
-  <phrase title="nobody" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Nobody]]></phrase>
+  <phrase title="new_permission" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Új engedély]]></phrase>
+  <phrase title="new_permission_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Új engedély csoport]]></phrase>
+  <phrase title="new_registrations_currently_not_being_accepted" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Az új regisztrációk jelenleg nem engedélyezettek.]]></phrase>
+  <phrase title="new_threads" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Új témák]]></phrase>
+  <phrase title="new_thread_title" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Új téma cím]]></phrase>
+  <phrase title="new_trophy" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Új trófea]]></phrase>
+  <phrase title="next" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Következõ]]></phrase>
+  <phrase title="next_run" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Következõ menet]]></phrase>
+  <phrase title="no" addon_id="XenForo" global_cache="0" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Nem]]></phrase>
+  <phrase title="nobody" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Senki]]></phrase>
   <phrase title="nodes" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Nodes]]></phrase>
   <phrase title="node_description_explain" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[The text (or HTML) you insert here must be valid within a &lt;p&gt; tag.]]></phrase>
   <phrase title="node_names_contain_more_numbers_hyphen" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Node names/URL portions must contain more than just numbers or a "-".]]></phrase>
@@ -183,11 +183,11 @@
   <phrase title="node_permissions" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Node Permissions]]></phrase>
   <phrase title="node_tree" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Node Tree]]></phrase>
   <phrase title="node_type" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Node Type]]></phrase>
-  <phrase title="node_type_Category" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Category]]></phrase>
-  <phrase title="node_type_Forum" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Forum]]></phrase>
-  <phrase title="node_type_LinkForum" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Link Forum]]></phrase>
-  <phrase title="node_type_Page" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Page]]></phrase>
-  <phrase title="none" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[None]]></phrase>
+  <phrase title="node_type_Category" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Kategória]]></phrase>
+  <phrase title="node_type_Forum" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Fórum]]></phrase>
+  <phrase title="node_type_LinkForum" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Fórum link]]></phrase>
+  <phrase title="node_type_Page" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Oldal]]></phrase>
+  <phrase title="none" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Semmi]]></phrase>
   <phrase title="noon" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Noon]]></phrase>
   <phrase title="note" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Note]]></phrase>
   <phrase title="note_that_account_changes_bans_not_be_reflected_no_conversations" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Note that account changes such as bans will not be reflected by this system. You will not be able to post as this user or see their personal conversations.]]></phrase>
@@ -226,30 +226,30 @@
   <phrase title="no_repeat" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[No-Repeat]]></phrase>
   <phrase title="no_reports_have_been_closed_during_this_period" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[No reports have been closed during this period.]]></phrase>
   <phrase title="no_responses_will_be_allowed" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No responses will be allowed]]></phrase>
-  <phrase title="no_results_found" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[No results found.]]></phrase>
+  <phrase title="no_results_found" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Nem találhatóak eredmények.]]></phrase>
   <phrase title="no_smilies_have_been_added_yet" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[No smilies have been added yet.]]></phrase>
   <phrase title="no_terms_and_rules" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Nincsenek feltételek és szabályok.]]></phrase>
-  <phrase title="no_text_decoration" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[No text decoration]]></phrase>
-  <phrase title="no_trophies_have_been_created_yet" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[No trophies have been created yet.]]></phrase>
-  <phrase title="no_users_awaiting_approval" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[No users are awaiting approval.]]></phrase>
+  <phrase title="no_text_decoration" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Nincs szöveg dekoráció]]></phrase>
+  <phrase title="no_trophies_have_been_created_yet" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Trófeák nem lettek létrehozva.]]></phrase>
+  <phrase title="no_users_awaiting_approval" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Nem várnak felhasználók aktiválásra.]]></phrase>
   <phrase title="no_users_have_custom_permissions" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[No users have custom permissions.]]></phrase>
   <phrase title="no_users_matched_specified_criteria" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No users matched the specified criteria.]]></phrase>
   <phrase title="no_user_upgrades_have_been_created_yet" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[No user upgrades have been created yet.]]></phrase>
-  <phrase title="number_of_replies" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Number of replies]]></phrase>
+  <phrase title="number_of_replies" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Válaszok száma]]></phrase>
   <phrase title="number_of_times_something_posted_by_x_has_been_liked" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Number of times something posted by {name} has been 'liked']]></phrase>
   <phrase title="number_of_users_matching_criteria" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Number of users matching criteria]]></phrase>
-  <phrase title="number_of_views" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Number of views]]></phrase>
+  <phrase title="number_of_views" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Megtekintések száma]]></phrase>
   <phrase title="number_with_or_without_units" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Number (with or without units)]]></phrase>
   <phrase title="numeric" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Numeric]]></phrase>
   <phrase title="n_a" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[N/A]]></phrase>
   <phrase title="occupation" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Occupation]]></phrase>
   <phrase title="official_name_of_this_service_such_as_yahoo" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The official name of this service, such as <i>Yahoo! Instant Messenger</i>.]]></phrase>
-  <phrase title="okay" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Okay]]></phrase>
-  <phrase title="older" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Older]]></phrase>
+  <phrase title="okay" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Oké]]></phrase>
+  <phrase title="older" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Idõsebb]]></phrase>
   <phrase title="once_your_birthday_has_been_entered_it_cannot_be_changed" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Once your birthday has been entered, it cannot be changed. Please contact an administrator if it is incorrect.]]></phrase>
   <phrase title="one_minute_ago" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[1 perccel ezelõtt]]></phrase>
   <phrase title="online_now_x_members_y_guests_z" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Online now: {total} (members: {members}, guests: {guests})]]></phrase>
-  <phrase title="online_statistics" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Online Statistics]]></phrase>
+  <phrase title="online_statistics" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Online statisztika]]></phrase>
   <phrase title="only_array_data_types_may_be_represented_as_array_values" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Only array data types may be represented as array values.]]></phrase>
   <phrase title="only_generate_list_of_email_addresses" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Only generate a list of email addresses]]></phrase>
   <phrase title="only_literal_css_templates_may_be_included_by_require_tag" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Only literal CSS templates may be included by the require tag.]]></phrase>
@@ -258,12 +258,12 @@
   <phrase title="only_when_data_is_provided" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Only when data is provided]]></phrase>
   <phrase title="on_off_check_box" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[On/Off Check Box]]></phrase>
   <phrase title="open" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Open]]></phrase>
-  <phrase title="open_quick_navigation" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Open quick navigation]]></phrase>
+  <phrase title="open_quick_navigation" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Gyors navigáció megnyitása]]></phrase>
   <phrase title="optgroups_must_have_label" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Optgroups must have a label.]]></phrase>
-  <phrase title="optional" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Optional]]></phrase>
+  <phrase title="optional" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Opcionális]]></phrase>
   <phrase title="optionally_describe_trophy_and_criteria_user_needs_to_award" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Optionally describe the trophy and the criteria the user needs to meet to be awarded it.]]></phrase>
-  <phrase title="optional_components" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Optional Components]]></phrase>
-  <phrase title="options" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Options]]></phrase>
+  <phrase title="optional_components" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Opcionális Hozzászólások]]></phrase>
+  <phrase title="options" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Beállítások]]></phrase>
   <phrase title="options_tag_must_have_source_attribute" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Options tag must have a source attribute.]]></phrase>
   <phrase title="option_adjustTitleCase" addon_id="XenForo" global_cache="0" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Automatically Adjust Case of Discussion Titles]]></phrase>
   <phrase title="option_adjustTitleCase_explain" addon_id="XenForo" global_cache="0" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[You may choose to apply sentence or title case to discussion titles automatically, should you wish to do so.]]></phrase>
@@ -273,7 +273,7 @@
   <phrase title="option_alertsPerPage_explain" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Szabályozza, hogy mennyi figyelmeztetés jelenhet meg minden oldalon a felhasználó teljes figyelmeztetés listájából.]]></phrase>
   <phrase title="option_alertsPopupExpiryHours" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Hours to Retain Viewed Alerts in Popup]]></phrase>
   <phrase title="option_alertsPopupExpiryHours_explain" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[The alert popup will show all unviewed alerts, plus any viewed alerts that were viewed within the time frame (in hours) before now. Note that the total amount shown in this popup is limited to no more than 25.]]></phrase>
-  <phrase title="option_attachmentExtensions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Allowed Attachment File Extensions]]></phrase>
+  <phrase title="option_attachmentExtensions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Engedélyezett csatolmány fájl kiterjesztések]]></phrase>
   <phrase title="option_attachmentExtensions_explain" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[List the file extensions that are allowed to be uploaded. Use spaces or line break between extensions.]]></phrase>
   <phrase title="option_attachmentMaxDimensions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Maximum Attachment Image Dimensions]]></phrase>
   <phrase title="option_attachmentMaxDimensions_explain" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[The maximum allowed dimensions for attached images (width x height). Use 0 or blank to not restrict dimensions.]]></phrase>
