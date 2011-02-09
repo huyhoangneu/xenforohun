@@ -1,5 +1,5 @@
 <phrase title="1_more_message" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[1 hátralévõ üzenet]]></phrase>
-  <phrase title="about" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[About]]></phrase>
+  <phrase title="about" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Rólunk]]></phrase>
   <phrase title="about_you" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Rólad]]></phrase>
   <phrase title="accepted_file_types" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Elfogadott file típusok]]></phrase>
   <phrase title="accept_conversations_from" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Accept conversations from]]></phrase>
@@ -15,7 +15,7 @@
   <phrase title="active_reports" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Aktív jelentések]]></phrase>
   <phrase title="active_users" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Aktív felhasználók]]></phrase>
   <phrase title="active_user_upgrades" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Active User Upgrades]]></phrase>
-  <phrase title="activity_display" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Activity Display]]></phrase>
+  <phrase title="activity_display" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Aktivitás kijelzés]]></phrase>
   <phrase title="activity_stream_for_all_registered_members_at_x" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Activity stream for all registered members at {board_title}.]]></phrase>
   <phrase title="activity_stream_for_all_users_you_follow" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Activity stream for all <a {link_params}>users you follow</a>.]]></phrase>
   <phrase title="additional_contact" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Additional Contact]]></phrase>
@@ -24,7 +24,7 @@
   <phrase title="add_account" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Fiók hozzáadása]]></phrase>
   <phrase title="add_additional_response" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Add Additional Response]]></phrase>
   <phrase title="add_bb_code_media_site" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Add BB Code Media Site]]></phrase>
-  <phrase title="add_child" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Add Child]]></phrase>
+  <phrase title="add_child" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Gyermek hozzáadása]]></phrase>
   <phrase title="add_moderator" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Moderátor hozzáadása]]></phrase>
   <phrase title="add_moderator_to_user_groups" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Moderátor hozzáadása felhasználói csoportokhoz]]></phrase>
   <phrase title="add_new_administrator" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Új Adminisztrátor hozzáadása]]></phrase>
@@ -172,67 +172,67 @@
   <phrase title="alert_conversation_reply" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{username} replied to the conversation {conversation}.]]></phrase>
   <phrase title="alert_preferences" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Figyelmeztetés beállítások]]></phrase>
   <phrase title="alert_profile_post_insert" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{username} wrote a message on <a {profilePageLinkAttributes}>your profile</a>.]]></phrase>
-  <phrase title="alert_user_following" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{username} is now following you.]]></phrase>
-  <phrase title="align_center" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Align center]]></phrase>
-  <phrase title="align_left" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Align left]]></phrase>
-  <phrase title="align_right" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Align right]]></phrase>
-  <phrase title="all" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[All]]></phrase>
-  <phrase title="allow" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Allow]]></phrase>
+  <phrase title="alert_user_following" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{username} mostantól követ téged.]]></phrase>
+  <phrase title="align_center" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Középre igazítás]]></phrase>
+  <phrase title="align_left" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Balra igazítás]]></phrase>
+  <phrase title="align_right" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Jobbra igazítás]]></phrase>
+  <phrase title="all" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Összes]]></phrase>
+  <phrase title="allow" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Engedélyez]]></phrase>
   <phrase title="allows_delay_each_page_load_by_specified_length_of_time" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[This allows you to delay each page load by the specified length of time. This will make the rebuild take longer, but can reduce load on an active server.]]></phrase>
   <phrase title="allow_anyone_in_conversation_to_invite_others" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Allow anyone in the conversation to invite others]]></phrase>
   <phrase title="allow_cron_entry_to_run_automatically_when_scheduled" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Allow cron entry to run automatically when scheduled]]></phrase>
   <phrase title="allow_other_people_to_see_what_page_you_currently_viewing" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Allow other people to see what page you are currently viewing]]></phrase>
   <phrase title="allow_selection_of_multiple_responses" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Allow selection of multiple responses]]></phrase>
   <phrase title="allow_user_selection" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Allow user selection]]></phrase>
-  <phrase title="all_forums" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[All Forums]]></phrase>
+  <phrase title="all_forums" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Összes fórum]]></phrase>
   <phrase title="all_permissions_within_this_group_will_be_deleted_as_well" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[All permissions within this group will be deleted as well.]]></phrase>
   <phrase title="all_posts_from_other_threads_will_be_merged_into_this_thread" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[All posts from the other threads will be merged into this thread.]]></phrase>
-  <phrase title="all_recent_messages" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[All Recent Messages]]></phrase>
-  <phrase title="all_required_css_templates_must_end_in_" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[All required CSS templates must end in ".css".]]></phrase>
-  <phrase title="all_templates_saved_successfully" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[All templates saved successfully.]]></phrase>
+  <phrase title="all_recent_messages" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[Összes jelenlegi üzenet]]></phrase>
+  <phrase title="all_required_css_templates_must_end_in_" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Az összes szükséges CSS sablonnak ".css"-re kell végzõdnie.]]></phrase>
+  <phrase title="all_templates_saved_successfully" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Az összes sablon sikeresen mentve.]]></phrase>
   <phrase title="all_template_unit_tags_must_specify_label" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[All template *unit tags must specify a label.]]></phrase>
   <phrase title="all_threads_from_x_containing_messages_not_viewed" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[These are all threads from {board_title} containing messages you have not viewed.]]></phrase>
   <phrase title="all_threads_from_x_recently_updated" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[These are all threads from {board_title} that have been recently updated. <a href="{news_feed_url}">You may also see what members have been doing recently</a>.]]></phrase>
   <phrase title="all_threads_in_destination_forum" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[All selected threads are already in the destination forum. Please select another forum.]]></phrase>
   <phrase title="all_users" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Minden felhasználó]]></phrase>
   <phrase title="all_visitors" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[All Visitors]]></phrase>
-  <phrase title="all_watched_threads" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[All Watched Threads]]></phrase>
+  <phrase title="all_watched_threads" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Összes megtekintett téma]]></phrase>
   <phrase title="also_comments_on_profile_post" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Also comments on a profile post]]></phrase>
-  <phrase title="always" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Always]]></phrase>
+  <phrase title="always" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Mindig]]></phrase>
   <phrase title="and_receive_email_notifications" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[and receive email notifications]]></phrase>
   <phrase title="and_receive_email_notifications_of_replies" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[and receive email notifications of replies]]></phrase>
-  <phrase title="and_x_more" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[and {count} more]]></phrase>
-  <phrase title="any" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Any]]></phrase>
-  <phrase title="any_forum" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Any Forum]]></phrase>
+  <phrase title="and_x_more" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[és {count} több]]></phrase>
+  <phrase title="any" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Bármely]]></phrase>
+  <phrase title="any_forum" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Bármelyik fórum]]></phrase>
   <phrase title="appearance" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Megjelenés]]></phrase>
   <phrase title="applications" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Alkalmazások]]></phrase>
-  <phrase title="application_date" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Application Date]]></phrase>
-  <phrase title="applied_by" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Applied By]]></phrase>
+  <phrase title="application_date" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Alkalmazás napja]]></phrase>
+  <phrase title="applied_by" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Alkalmazta]]></phrase>
   <phrase title="apply" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Alkalmaz]]></phrase>
   <phrase title="approve" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Elfogad]]></phrase>
   <phrase title="approved_sites" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Elfogadott oldalak]]></phrase>
-  <phrase title="approve_posts" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Approve Posts]]></phrase>
-  <phrase title="approve_threads" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Approve Threads]]></phrase>
-  <phrase title="are_you_sure_you_want_to_complete_this_import_cant_resume" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Are you sure you want to complete this import? If you do this, you will not be able to resume the import from the current point.]]></phrase>
-  <phrase title="argument_must_be_string" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Argument must be a string]]></phrase>
+  <phrase title="approve_posts" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hozzászólások elfogadása]]></phrase>
+  <phrase title="approve_threads" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Témák elfogadása]]></phrase>
+  <phrase title="are_you_sure_you_want_to_complete_this_import_cant_resume" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Biztos vagy benne, hogy befejezed ezt az importálást? Ha befejezed, akkor nem tudod folytatni a jelenlegi ponttól az importot.]]></phrase>
+  <phrase title="argument_must_be_string" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[A paraméternek karaktersorozatnak kell lennie]]></phrase>
   <phrase title="array" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Tömb]]></phrase>
-  <phrase title="array_sub_options" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Array Sub-Options]]></phrase>
-  <phrase title="ascending" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ascending]]></phrase>
-  <phrase title="ascending_order" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Ascending order]]></phrase>
-  <phrase title="assigned" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Assigned]]></phrase>
-  <phrase title="assigned_to" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Assigned to]]></phrase>
-  <phrase title="associated_facebook_account" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Associated Facebook Account]]></phrase>
-  <phrase title="associate_account" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Associate Account]]></phrase>
-  <phrase title="associate_existing_account" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Associate Existing Account]]></phrase>
-  <phrase title="associate_with" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Associate with]]></phrase>
-  <phrase title="associate_with_facebook" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Associate with Facebook]]></phrase>
-  <phrase title="as_defined" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[As defined]]></phrase>
-  <phrase title="attached_files" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Attached Files]]></phrase>
-  <phrase title="attaches_file_to_watched_thread" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Attaches a file to a watched thread]]></phrase>
-  <phrase title="attachments_directory" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Attachments Directory]]></phrase>
-  <phrase title="attachments_directory_not_found" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[The attachments directory could not be found.]]></phrase>
-  <phrase title="attachments_or_avatars_being_stored_in_file_system_confirm_path" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Attachments or avatars are being stored in the file system. Please confirm the path to these.]]></phrase>
-  <phrase title="attachment_cannot_be_shown_at_this_time" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[This attachment cannot be shown at this time. Please try back later.]]></phrase>
-  <phrase title="attachment_could_not_be_read_by_server" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[The attachment could not be read by the server. Please try again later.]]></phrase>
-  <phrase title="attach_child_nodes_to_another_parent" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Attach child nodes to another parent]]></phrase>
-  <phrase title="authentication" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Authentication]]></phrase>
+  <phrase title="array_sub_options" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Tömb al-opciók]]></phrase>
+  <phrase title="ascending" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Növekvõ]]></phrase>
+  <phrase title="ascending_order" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Növekvõ sorrend]]></phrase>
+  <phrase title="assigned" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Hozzárendelve]]></phrase>
+  <phrase title="assigned_to" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hozzárendelve:]]></phrase>
+  <phrase title="associated_facebook_account" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Társított Facebook fiók]]></phrase>
+  <phrase title="associate_account" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Fiók társítása]]></phrase>
+  <phrase title="associate_existing_account" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Meglévõ fiók társítása]]></phrase>
+  <phrase title="associate_with" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Társítás:]]></phrase>
+  <phrase title="associate_with_facebook" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Facebook-hoz társítás]]></phrase>
+  <phrase title="as_defined" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Meghatározottak szerint]]></phrase>
+  <phrase title="attached_files" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Csatolt fájlok]]></phrase>
+  <phrase title="attaches_file_to_watched_thread" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Fájl megtekintett témához csatolása]]></phrase>
+  <phrase title="attachments_directory" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Csatolányok könyvtár]]></phrase>
+  <phrase title="attachments_directory_not_found" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[A csatolmányok könyvtára nem található.]]></phrase>
+  <phrase title="attachments_or_avatars_being_stored_in_file_system_confirm_path" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[A csatolmányok és az avatarok a fájlrendszerben tárolódnak. Erõsítsd meg ezeknek az útvonalát.]]></phrase>
+  <phrase title="attachment_cannot_be_shown_at_this_time" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Ez a csatolmány jelenleg nem tekinthetõ meg. Próbáld meg késõbb.]]></phrase>
+  <phrase title="attachment_could_not_be_read_by_server" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[A csatolmányt nem bírja olvasni a szerver. Próbáld meg késõbb.]]></phrase>
+  <phrase title="attach_child_nodes_to_another_parent" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Gyermek node-ok másik szülõhöz csatolása]]></phrase>
+  <phrase title="authentication" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Hitelesítés]]></phrase>
