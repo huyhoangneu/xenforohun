@@ -195,7 +195,7 @@
   <phrase title="all_threads_from_x_recently_updated" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[These are all threads from {board_title} that have been recently updated. <a href="{news_feed_url}">You may also see what members have been doing recently</a>.]]></phrase>
   <phrase title="all_threads_in_destination_forum" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[All selected threads are already in the destination forum. Please select another forum.]]></phrase>
   <phrase title="all_users" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Minden felhasználó]]></phrase>
-  <phrase title="all_visitors" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[All Visitors]]></phrase>
+  <phrase title="all_visitors" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Minden látogató]]></phrase>
   <phrase title="all_watched_threads" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Összes megtekintett téma]]></phrase>
   <phrase title="also_comments_on_profile_post" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Also comments on a profile post]]></phrase>
   <phrase title="always" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Mindig]]></phrase>
