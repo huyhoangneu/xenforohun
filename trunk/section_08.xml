@@ -106,14 +106,14 @@
   <phrase title="save_permission_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Permission Group]]></phrase>
   <phrase title="save_permission_interface_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Permission Interface Group]]></phrase>
   <phrase title="save_phrase" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Kifejezés mentése]]></phrase>
-  <phrase title="save_prefix" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Prefix]]></phrase>
+  <phrase title="save_prefix" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Prefix mentése]]></phrase>
   <phrase title="save_property_definition" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Property Definition]]></phrase>
   <phrase title="save_property_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Property Group]]></phrase>
-  <phrase title="save_smilie" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Smilie]]></phrase>
-  <phrase title="save_style" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Style]]></phrase>
-  <phrase title="save_template" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Template]]></phrase>
+  <phrase title="save_smilie" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Hangulatjel mentése]]></phrase>
+  <phrase title="save_style" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Stílus mentése]]></phrase>
+  <phrase title="save_template" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sablon mentése]]></phrase>
   <phrase title="save_trophy" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save Trophy]]></phrase>
-  <phrase title="save_user" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save User]]></phrase>
+  <phrase title="save_user" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Felhasználó mentése]]></phrase>
   <phrase title="save_user_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save User Group]]></phrase>
   <phrase title="save_user_upgrade" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Save User Upgrade]]></phrase>
   <phrase title="scalar_with_default_value" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Scalar with default value]]></phrase>
@@ -168,7 +168,7 @@
   <phrase title="server_error_occurred" addon_id="XenForo" global_cache="0" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[A server error occurred. Please try again later.]]></phrase>
   <phrase title="service_id" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Service ID]]></phrase>
   <phrase title="service_name" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Service Name]]></phrase>
-  <phrase title="settings" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Settings]]></phrase>
+  <phrase title="settings" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Beállítások]]></phrase>
   <phrase title="set_options" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Set Options]]></phrase>
   <phrase title="set_permissions" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Set Permissions]]></phrase>
   <phrase title="set_return_path_with_f_parameter_does_not_work_in_safe_mode" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Set return path with -f parameter (does not work in safe mode)]]></phrase>
@@ -198,13 +198,13 @@
   <phrase title="signature" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Aláírás]]></phrase>
   <phrase title="signed_in_as_x_sidebar" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<span class="muted">Belépve, mint</span> {name}]]></phrase>
   <phrase title="sign_up" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Regisztráció]]></phrase>
-  <phrase title="sign_up_now" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sign Up Now!]]></phrase>
+  <phrase title="sign_up_now" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Regisztrálj most!]]></phrase>
   <phrase title="sign_up_with_facebook" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Sign Up with Facebook]]></phrase>
-  <phrase title="site_title" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Site Title]]></phrase>
-  <phrase title="site_url" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Site URL]]></phrase>
-  <phrase title="size" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Size]]></phrase>
+  <phrase title="site_title" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Oldal cím]]></phrase>
+  <phrase title="site_url" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Oldal URL]]></phrase>
+  <phrase title="size" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Méret]]></phrase>
   <phrase title="small_caps" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Small Caps]]></phrase>
-  <phrase title="smilies" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Smilies]]></phrase>
+  <phrase title="smilies" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hangulatjelek]]></phrase>
   <phrase title="smilie_replacement_text_must_be_unique_x_in_use" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Smilie replacement text must be unique. The replacement '{text}' is already in use.]]></phrase>
   <phrase title="solid" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Solid]]></phrase>
   <phrase title="someone_adds_you_to_conversation_that_was_already_in_progress" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Someone adds you to a conversation that was already in progress]]></phrase>
@@ -271,10 +271,10 @@
   <phrase title="stop_watching_threads" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Stop watching threads]]></phrase>
   <phrase title="strike_through" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Strike-through]]></phrase>
   <phrase title="string" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[String]]></phrase>
-  <phrase title="style" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Style]]></phrase>
+  <phrase title="style" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Stílus]]></phrase>
   <phrase title="styles" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Stílusok]]></phrase>
-  <phrase title="style_chooser" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Style Chooser]]></phrase>
-  <phrase title="style_properties" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Style Properties]]></phrase>
+  <phrase title="style_chooser" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Stílusválasztó]]></phrase>
+  <phrase title="style_properties" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Stílus tulajdonságok]]></phrase>
   <phrase title="style_properties_in_style_can_not_be_modified" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Style properties in this style can not be modified. Please try another.]]></phrase>
   <phrase title="style_property_ajaxProgress_description_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[This styles the element that appears when AJAX operations are in progress.]]></phrase>
   <phrase title="style_property_ajaxProgress_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[AJAX Progress Indicator]]></phrase>
