@@ -7,7 +7,7 @@
   <phrase title="style_property_sidebarUserListUsername_description_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
   <phrase title="style_property_sidebarUserListUsername_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[User List Username]]></phrase>
   <phrase title="style_property_sidebar_description_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Controls the layout of the sidebar element.]]></phrase>
-  <phrase title="style_property_sidebar_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Sidebar]]></phrase>
+  <phrase title="style_property_sidebar_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Oldalsáv]]></phrase>
   <phrase title="style_property_signupButtonActive_description_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
   <phrase title="style_property_signupButtonActive_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Sign-up Now Button, Active State]]></phrase>
   <phrase title="style_property_signupButtonHover_description_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
@@ -177,7 +177,7 @@
   <phrase title="this_will_test_xenforo_facebook_integration" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[This will test the XenForo's Facebook integration. You must have a Facebook account to perform this test.]]></phrase>
   <phrase title="this_would_ban_all_email_addresses" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[This would ban all email addresses.]]></phrase>
   <phrase title="thousands_separator" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Thousands Separator]]></phrase>
-  <phrase title="thread" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Thread]]></phrase>
+  <phrase title="thread" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Téma]]></phrase>
   <phrase title="threads" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Threads]]></phrase>
   <phrase title="threads_below_not_been_updated_since_last_visit_have_unread" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Threads below this have not been updated since your last visit but have unread messages.]]></phrase>
   <phrase title="thread_by" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Thread by]]></phrase>
@@ -190,18 +190,18 @@
   <phrase title="thumbnail" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Thumbnail]]></phrase>
   <phrase title="time_am_lower" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[am]]></phrase>
   <phrase title="time_am_upper" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[AM]]></phrase>
-  <phrase title="time_format" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Time Format]]></phrase>
+  <phrase title="time_format" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Idõformátum]]></phrase>
   <phrase title="time_pm_lower" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[pm]]></phrase>
   <phrase title="time_pm_upper" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[PM]]></phrase>
-  <phrase title="time_zone" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Time zone]]></phrase>
+  <phrase title="time_zone" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Idõzóna]]></phrase>
   <phrase title="timing" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Timing]]></phrase>
-  <phrase title="title" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Title]]></phrase>
+  <phrase title="title" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Cím]]></phrase>
   <phrase title="title_alphabetical" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Title (alphabetical)]]></phrase>
   <phrase title="title_case" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Title case]]></phrase>
   <phrase title="title_contains" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Title Contains]]></phrase>
-  <phrase title="today" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Today]]></phrase>
+  <phrase title="today" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Ma]]></phrase>
   <phrase title="today_at_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ma {time} -kor]]></phrase>
-  <phrase title="tools" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Tools]]></phrase>
+  <phrase title="tools" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Eszközök]]></phrase>
   <phrase title="too_many_poll_responses_have_been_entered" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Too many poll responses have been entered. Please remove some.]]></phrase>
   <phrase title="top" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Oldal tetejére]]></phrase>
   <phrase title="total_members" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Total Members]]></phrase>
@@ -302,7 +302,7 @@
   <phrase title="upload_tags_must_specify_name" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Upload tags must specify a name.]]></phrase>
   <phrase title="url" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[URL]]></phrase>
   <phrase title="url_portion" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[URL Portion]]></phrase>
-  <phrase title="user" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[User]]></phrase>
+  <phrase title="user" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Felhasználó]]></phrase>
   <phrase title="usernames_must_be_unique" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Usernames must be unique. The specified username is already in use.]]></phrase>
   <phrase title="users" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Felhasználók]]></phrase>
   <phrase title="users_awaiting_approval" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Users Awaiting Approval]]></phrase>
@@ -602,7 +602,7 @@ To manage the threads you watch, click here:
   <phrase title="watch_thread" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Watch Thread]]></phrase>
   <phrase title="watch_threads_when_creating_or_replying" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Watch threads when creating or replying]]></phrase>
   <phrase title="weeks" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Weeks]]></phrase>
-  <phrase title="whats_gravatar" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[What's a Gravatar?]]></phrase>
+  <phrase title="whats_gravatar" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Mi az a Gravatar?]]></phrase>
   <phrase title="whats_new" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Friss]]></phrase>
   <phrase title="what_kind_of_node_do_you_want_to_add" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[What kind of node do you want to add?]]></phrase>
   <phrase title="when_email_addresses_same" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[When email addresses are the same]]></phrase>
@@ -628,7 +628,7 @@ To manage the threads you watch, click here:
   <phrase title="x_commented_on_your_status" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} commented on <a {status_attributes}>your status</a>.]]></phrase>
   <phrase title="x_commented_on_ys_post_on_your_profile" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} commented on <a {post_attributes}>{poster}'s post</a> on your profile.]]></phrase>
   <phrase title="x_does_not_follow_anyone" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} does not follow anyone.]]></phrase>
-  <phrase title="x_for_one_day" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{cost} for 1 day]]></phrase>
+  <phrase title="x_for_one_day" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{cost} 1 napra]]></phrase>
   <phrase title="x_for_one_month" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{cost} 1 hónapra]]></phrase>
   <phrase title="x_for_one_year" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{cost} for 1 year]]></phrase>
   <phrase title="x_for_y_days" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{cost} for {length} days]]></phrase>
@@ -668,12 +668,12 @@ To manage the threads you watch, click here:
   <phrase title="x_votes" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{count} vote(s)]]></phrase>
   <phrase title="x_was_banned_by_y" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[{name} was banned by {banning_user}]]></phrase>
   <phrase title="x_was_last_seen" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{username} was last seen]]></phrase>
-  <phrase title="year" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Year]]></phrase>
+  <phrase title="year" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Év]]></phrase>
   <phrase title="years" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Years]]></phrase>
-  <phrase title="yes" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Yes]]></phrase>
-  <phrase title="yesterday" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Yesterday]]></phrase>
+  <phrase title="yes" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Igen]]></phrase>
+  <phrase title="yesterday" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Tegnap]]></phrase>
   <phrase title="yesterday_at_x" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Yesterday at {time}]]></phrase>
-  <phrase title="yes_my_password_is" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Yes, my password is]]></phrase>
+  <phrase title="yes_my_password_is" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Igen, a jelszavam]]></phrase>
   <phrase title="yes_with_email" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Yes, with email]]></phrase>
   <phrase title="your_account" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Fiókod]]></phrase>
   <phrase title="your_account_already_has_password" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Your account already has a password.]]></phrase>
