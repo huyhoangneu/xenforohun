@@ -1,40 +1,40 @@
-<phrase title="db_queries" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[DB Queries]]></phrase>
+<phrase title="db_queries" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Adatbázis lekérdezések]]></phrase>
   <phrase title="decimal_point_character" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Decimal Point Character]]></phrase>
   <phrase title="default" addon_id="XenForo" global_cache="0" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Default]]></phrase>
   <phrase title="default_url" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Default URL]]></phrase>
   <phrase title="default_value" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Default Value]]></phrase>
   <phrase title="define_new_style_property" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Define New Style Property]]></phrase>
-  <phrase title="delete" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Delete]]></phrase>
-  <phrase title="deleted" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Deleted]]></phrase>
+  <phrase title="delete" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Töröl]]></phrase>
+  <phrase title="deleted" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Törölve]]></phrase>
   <phrase title="deleted_by_x" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Deleted by {name}]]></phrase>
-  <phrase title="delete_administrator" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Administrator]]></phrase>
+  <phrase title="delete_administrator" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Adminisztrátor törlése]]></phrase>
   <phrase title="delete_admin_navigation" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Admin Navigation]]></phrase>
-  <phrase title="delete_all" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Delete All]]></phrase>
+  <phrase title="delete_all" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Összes törlése]]></phrase>
   <phrase title="delete_bb_code_media_site" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete BB Code Media Site]]></phrase>
-  <phrase title="delete_category" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Category]]></phrase>
+  <phrase title="delete_category" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Kategória törlése]]></phrase>
   <phrase title="delete_code_event" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Code Event]]></phrase>
   <phrase title="delete_comment" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Delete Comment]]></phrase>
-  <phrase title="delete_cron_entry" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Cron Entry]]></phrase>
-  <phrase title="delete_current_avatar" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete current avatar]]></phrase>
-  <phrase title="delete_current_avatar_question" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Delete current avatar?]]></phrase>
+  <phrase title="delete_cron_entry" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Cron bejegyzés törlése]]></phrase>
+  <phrase title="delete_current_avatar" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Jelenlegi avatar törlése]]></phrase>
+  <phrase title="delete_current_avatar_question" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Törlöd a jelenlegi avatart?]]></phrase>
   <phrase title="delete_event_listener" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Event Listener]]></phrase>
-  <phrase title="delete_forum" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Forum]]></phrase>
+  <phrase title="delete_forum" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Fórum törlése]]></phrase>
   <phrase title="delete_identity_service" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Identity Service]]></phrase>
-  <phrase title="delete_language" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Language]]></phrase>
+  <phrase title="delete_language" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Nyelv törlése]]></phrase>
   <phrase title="delete_link_forum" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Link Forum]]></phrase>
   <phrase title="delete_log_entry" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Delete Log Entry]]></phrase>
-  <phrase title="delete_moderator" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Moderator]]></phrase>
+  <phrase title="delete_moderator" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Moderátor törlése]]></phrase>
   <phrase title="delete_option" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Option]]></phrase>
   <phrase title="delete_option_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Option Group]]></phrase>
-  <phrase title="delete_page" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Page]]></phrase>
-  <phrase title="delete_permission" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Permission]]></phrase>
+  <phrase title="delete_page" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Oldal törlése]]></phrase>
+  <phrase title="delete_permission" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Jogosultság törlése]]></phrase>
   <phrase title="delete_permission_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Permission Group]]></phrase>
   <phrase title="delete_permission_interface_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Permission Interface Group]]></phrase>
   <phrase title="delete_phrase" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Kifejezés törlése]]></phrase>
   <phrase title="delete_post" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Hozzászólás törlése]]></phrase>
-  <phrase title="delete_posts" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Delete Posts]]></phrase>
+  <phrase title="delete_posts" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hozzászólások törlése]]></phrase>
   <phrase title="delete_post_by_x" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Delete Post by {name}]]></phrase>
-  <phrase title="delete_prefix" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Prefix]]></phrase>
+  <phrase title="delete_prefix" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Prefix törlése]]></phrase>
   <phrase title="delete_profile_posts" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Delete Profile Posts]]></phrase>
   <phrase title="delete_profile_post_by_x" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Delete Profile Post by {name}]]></phrase>
   <phrase title="delete_profile_post_comment_by_x" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Delete Profile Post Comment by {name}]]></phrase>
@@ -43,22 +43,22 @@
   <phrase title="delete_route_prefix" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Route Prefix]]></phrase>
   <phrase title="delete_selected_emails" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Selected Emails]]></phrase>
   <phrase title="delete_selected_ips" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Selected IPs]]></phrase>
-  <phrase title="delete_smilie" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Smilie]]></phrase>
+  <phrase title="delete_smilie" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Hangulatjel törlése]]></phrase>
   <phrase title="delete_spammers_messages" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Delete spammer's messages]]></phrase>
   <phrase title="delete_spammers_threads" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Delete spammer's threads]]></phrase>
-  <phrase title="delete_style" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Style]]></phrase>
+  <phrase title="delete_style" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Stílus törlése]]></phrase>
   <phrase title="delete_style_property_definition" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Style Property Definition]]></phrase>
   <phrase title="delete_style_property_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Style Property Group]]></phrase>
   <phrase title="delete_super_moderator" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Super Moderator]]></phrase>
-  <phrase title="delete_template" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Template]]></phrase>
+  <phrase title="delete_template" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sablon törlése]]></phrase>
   <phrase title="delete_this_categorys_child_nodes" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete this category's child nodes]]></phrase>
   <phrase title="delete_this_forums_child_nodes" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete this forum's child nodes]]></phrase>
   <phrase title="delete_this_links_child_nodes" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete this link's child nodes]]></phrase>
   <phrase title="delete_this_pages_child_nodes" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete this page's child nodes]]></phrase>
-  <phrase title="delete_thread" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Delete Thread]]></phrase>
-  <phrase title="delete_threads" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Delete Threads]]></phrase>
-  <phrase title="delete_trophy" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete Trophy]]></phrase>
-  <phrase title="delete_user" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete User]]></phrase>
+  <phrase title="delete_thread" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Téma törlése]]></phrase>
+  <phrase title="delete_threads" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Témák törlése]]></phrase>
+  <phrase title="delete_trophy" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Trófea törlése]]></phrase>
+  <phrase title="delete_user" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Felhasználó törlése]]></phrase>
   <phrase title="delete_user_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete User Group]]></phrase>
   <phrase title="delete_user_upgrade" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Delete User Upgrade]]></phrase>
   <phrase title="deletion_successful" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Deletion successful.]]></phrase>
@@ -99,8 +99,8 @@
   <phrase title="display_this_navigation_in_debug_mode_only" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Display this navigation in debug mode only]]></phrase>
   <phrase title="display_votes_publicly" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Display votes publicly]]></phrase>
   <phrase title="dont_have_account" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Don't have an account?]]></phrase>
-  <phrase title="dotted" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Dotted]]></phrase>
-  <phrase title="double" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Double]]></phrase>
+  <phrase title="dotted" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Pontozott]]></phrase>
+  <phrase title="double" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Dupla]]></phrase>
   <phrase title="downgrade" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Downgrade]]></phrase>
   <phrase title="downgrade_user" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Downgrade User]]></phrase>
   <phrase title="do_nothing" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Do nothing]]></phrase>
@@ -117,31 +117,31 @@
   <phrase title="edit_admin_navigation_link" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Admin Navigation Link]]></phrase>
   <phrase title="edit_admin_permission" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Admin Permission]]></phrase>
   <phrase title="edit_admin_template" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Admin Template]]></phrase>
-  <phrase title="edit_avatar" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Avatar]]></phrase>
-  <phrase title="edit_banned_user" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Banned User]]></phrase>
+  <phrase title="edit_avatar" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Avatar szerkesztése]]></phrase>
+  <phrase title="edit_banned_user" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Kitiltott felhasználó szerkesztése]]></phrase>
   <phrase title="edit_bb_code_media_site" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit BB Code Media Site]]></phrase>
-  <phrase title="edit_category" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Category]]></phrase>
+  <phrase title="edit_category" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Kategória szerkesztése]]></phrase>
   <phrase title="edit_code_event" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Code Event]]></phrase>
   <phrase title="edit_conversation" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Edit Conversation]]></phrase>
-  <phrase title="edit_cron_entry" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Cron Entry]]></phrase>
+  <phrase title="edit_cron_entry" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Cron bejegyzés szerkesztése]]></phrase>
   <phrase title="edit_definition" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Definition]]></phrase>
   <phrase title="edit_email_template" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Email Template]]></phrase>
   <phrase title="edit_format" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Format]]></phrase>
-  <phrase title="edit_forum" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Forum]]></phrase>
-  <phrase title="edit_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Group]]></phrase>
+  <phrase title="edit_forum" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Fórum szerkesztése]]></phrase>
+  <phrase title="edit_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Csoport szerkesztése]]></phrase>
   <phrase title="edit_identity_service" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Identity Service]]></phrase>
-  <phrase title="edit_language" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Language]]></phrase>
+  <phrase title="edit_language" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Nyelv szerkesztése]]></phrase>
   <phrase title="edit_link_forum" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Link Forum]]></phrase>
   <phrase title="edit_message_by_x" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Edit Message by {name}]]></phrase>
-  <phrase title="edit_moderator" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Moderator]]></phrase>
+  <phrase title="edit_moderator" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Moderátor szerkesztése]]></phrase>
   <phrase title="edit_option" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Option]]></phrase>
   <phrase title="edit_option_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Option Group]]></phrase>
-  <phrase title="edit_page" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Page]]></phrase>
-  <phrase title="edit_permission" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Permission]]></phrase>
+  <phrase title="edit_page" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Oldal szerkesztése]]></phrase>
+  <phrase title="edit_permission" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Jogosultság szerkesztése]]></phrase>
   <phrase title="edit_permission_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Permission Group]]></phrase>
   <phrase title="edit_permission_interface_group" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Permission Interface Group]]></phrase>
   <phrase title="edit_phrase" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Phrase]]></phrase>
-  <phrase title="edit_poll" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Edit Poll]]></phrase>
+  <phrase title="edit_poll" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Edit poll]]></phrase>
   <phrase title="edit_post_by_x" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Edit Post by {name}]]></phrase>
   <phrase title="edit_profile_post_by_x" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Edit Profile Post by {name}]]></phrase>
   <phrase title="edit_route_prefix" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Edit Route Prefix]]></phrase>
@@ -204,7 +204,7 @@
   <phrase title="enter_term_used_by_service_to_describe_account_name" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Enter the term used by this service to describe the account name, such as <i>AIM Screen Name</i>, <i>ICQ UIN</i>, etc.]]></phrase>
   <phrase title="enter_your_password_in_first_box_and_confirm_it_in_second" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Enter your password in the first box and confirm it in the second.]]></phrase>
   <phrase title="enter_your_search_and_hit_enter" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Enter your search and hit enter]]></phrase>
-  <phrase title="error" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Error]]></phrase>
+  <phrase title="error" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hiba]]></phrase>
   <phrase title="error_info" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Error Info]]></phrase>
   <phrase title="error_occurred_or_request_stopped" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[An error occurred or the request was stopped.]]></phrase>
   <phrase title="error_occurred_while_connecting_with_facebook" addon_id="XenForo" global_cache="0" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[An error occurred while connecting with Facebook. Please try again later.]]></phrase>
@@ -217,6 +217,6 @@
   <phrase title="explanation" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Explanation]]></phrase>
   <phrase title="export" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Export]]></phrase>
   <phrase title="export_from_add_on" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Export from add-on]]></phrase>
-  <phrase title="export_language" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Export Language]]></phrase>
+  <phrase title="export_language" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Nyelv exportálása]]></phrase>
   <phrase title="extra" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Extra]]></phrase>
   <phrase title="facebook" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Facebook]]></phrase>

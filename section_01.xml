@@ -45,10 +45,10 @@
   <phrase title="administrator" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Adminisztrátor]]></phrase>
   <phrase title="administrators" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Adminisztrátorok]]></phrase>
   <phrase title="administrator_email" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Adminisztrátor E-mail]]></phrase>
-  <phrase title="admin_control_panel" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Admin Vezérlõpult]]></phrase>
+  <phrase title="admin_control_panel" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Admin vezérlõpult]]></phrase>
   <phrase title="admin_control_panel_login" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Bejelentkezés az Admin KP-ba]]></phrase>
   <phrase title="admin_control_panel_route_prefixes" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Admin Control Panel Route Prefixes]]></phrase>
-  <phrase title="admin_cp" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Admin KP]]></phrase>
+  <phrase title="admin_cp" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Admin vezérlõpult]]></phrase>
   <phrase title="admin_navigation" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Admin navigáció]]></phrase>
   <phrase title="admin_navigation_addOnDevelopment" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Plugin Fejlesztés]]></phrase>
   <phrase title="admin_navigation_addOns" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Bõvítmények]]></phrase>
@@ -125,14 +125,14 @@
   <phrase title="admin_navigation_spamCleaner" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Spam Cleaner Log]]></phrase>
   <phrase title="admin_navigation_spamCleanerSplash" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Spam Cleaner]]></phrase>
   <phrase title="admin_navigation_styleProperties" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Style Properties]]></phrase>
-  <phrase title="admin_navigation_styles" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Styles]]></phrase>
-  <phrase title="admin_navigation_stylesAndTemplates" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Styles & Templates]]></phrase>
-  <phrase title="admin_navigation_templates" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Templates]]></phrase>
+  <phrase title="admin_navigation_styles" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Stílusok]]></phrase>
+  <phrase title="admin_navigation_stylesAndTemplates" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Stílusok és sablonok]]></phrase>
+  <phrase title="admin_navigation_templates" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Sablonok]]></phrase>
   <phrase title="admin_navigation_testFacebook" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Test Facebook Integration]]></phrase>
   <phrase title="admin_navigation_testPermissions" addon_id="XenForo" global_cache="0" version_id="1000014" version_string="1.0.0 Alpha 4"><![CDATA[Test Permissions]]></phrase>
   <phrase title="admin_navigation_tools" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Eszközök]]></phrase>
   <phrase title="admin_navigation_toolsGroups" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Eszközök]]></phrase>
-  <phrase title="admin_navigation_trophies" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Trophies]]></phrase>
+  <phrase title="admin_navigation_trophies" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Trófeák]]></phrase>
   <phrase title="admin_navigation_trophiesAndUserTitles" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Trophies & User Titles]]></phrase>
   <phrase title="admin_navigation_trophyUserTitles" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Trophy User Titles]]></phrase>
   <phrase title="admin_navigation_userGroupPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[User Group Permissions]]></phrase>
@@ -140,7 +140,7 @@
   <phrase title="admin_navigation_userPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[User Permissions]]></phrase>
   <phrase title="admin_navigation_users" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Felhasználók]]></phrase>
   <phrase title="admin_navigation_usersAwaitingApproval" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Users Awaiting Approval]]></phrase>
-  <phrase title="admin_navigation_usersSection" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Users]]></phrase>
+  <phrase title="admin_navigation_usersSection" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Felhasználók]]></phrase>
   <phrase title="admin_navigation_userUpgrades" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[User Upgrades]]></phrase>
   <phrase title="admin_permissions_definitions" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Admin Permissions Definitions]]></phrase>
   <phrase title="admin_permission_addOn" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Manage add-ons]]></phrase>

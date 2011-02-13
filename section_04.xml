@@ -6,7 +6,7 @@
   <phrase title="facebook_returned_following_error_x" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Facebook returned the following error: {error}.]]></phrase>
   <phrase title="facebook_returned_unknown_error" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Facebook returned an unknown error.]]></phrase>
   <phrase title="failed_user_imports" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Failed User Imports]]></phrase>
-  <phrase title="female" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Female]]></phrase>
+  <phrase title="female" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Nõ]]></phrase>
   <phrase title="file" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Fájl]]></phrase>
   <phrase title="file_size" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Fájlméret]]></phrase>
   <phrase title="file_uploader" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Fájlfeltöltõ]]></phrase>
@@ -22,7 +22,7 @@
   <phrase title="flag_with_default_value" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Flag, with default value]]></phrase>
   <phrase title="follow" addon_id="XenForo" global_cache="1" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Követ]]></phrase>
   <phrase title="followed_members_only" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Followed Members Only]]></phrase>
-  <phrase title="followers" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Followers]]></phrase>
+  <phrase title="followers" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Követõk]]></phrase>
   <phrase title="following" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Following]]></phrase>
   <phrase title="following_error_occurred" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[The following error occurred]]></phrase>
   <phrase title="following_members_not_found_x" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[The following members could not be found: {members}.]]></phrase>
@@ -44,7 +44,7 @@
   <phrase title="forum" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Fórum]]></phrase>
   <phrase title="forums" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Fórumok]]></phrase>
   <phrase title="forum_is_currently_closed_only_admins_may_access" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[The forum is currently closed. Only administrators may access the forum.]]></phrase>
-  <phrase title="forum_list" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Forum List]]></phrase>
+  <phrase title="forum_list" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Fórum lista]]></phrase>
   <phrase title="forum_moderator" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Fórum Moderátor]]></phrase>
   <phrase title="forum_statistics" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Fórum statisztika]]></phrase>
   <phrase title="for_length" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[For length]]></phrase>
@@ -57,13 +57,13 @@
   <phrase title="full_image" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Teljes kép]]></phrase>
   <phrase title="full_size" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Teljes méret]]></phrase>
   <phrase title="future_message_handling" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Future Message Handling]]></phrase>
-  <phrase title="gender" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Gender]]></phrase>
+  <phrase title="gender" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Nem]]></phrase>
   <phrase title="general_code" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[General Code]]></phrase>
-  <phrase title="general_links" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[General Links]]></phrase>
+  <phrase title="general_links" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Általános linkek]]></phrase>
   <phrase title="general_privacy" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[General Privacy]]></phrase>
   <phrase title="generated_by" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Generated By]]></phrase>
   <phrase title="get_untranslated_phrases" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Get untranslated phrases]]></phrase>
-  <phrase title="go" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Go]]></phrase>
+  <phrase title="go" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Mehet]]></phrase>
   <phrase title="go_to_content" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Go to content]]></phrase>
   <phrase title="go_to_first_message_in_thread" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Go to first message in thread]]></phrase>
   <phrase title="go_to_first_unread" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Go To First Unread]]></phrase>
@@ -74,7 +74,7 @@
   <phrase title="gravatars_require_valid_email_addresses" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Gravatars require valid email addresses.]]></phrase>
   <phrase title="gravatar_email_address" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Gravatar email address]]></phrase>
   <phrase title="groove" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Groove]]></phrase>
-  <phrase title="group_id" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Group ID]]></phrase>
+  <phrase title="group_id" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Csoport ID]]></phrase>
   <phrase title="group_info" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Group Info]]></phrase>
   <phrase title="group_name" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Group Name]]></phrase>
   <phrase title="group_permissions" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Group Permissions]]></phrase>
@@ -96,7 +96,7 @@
   <phrase title="html_body" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[HTML Body]]></phrase>
   <phrase title="identities" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Identities]]></phrase>
   <phrase title="identity_services" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Identity Services]]></phrase>
-  <phrase title="identity_service_hint_aim" addon_id="" global_cache="0" version_id="0" version_string=""><![CDATA[AIM Screen Name]]></phrase>
+  <phrase title="identity_service_hint_aim" addon_id="" global_cache="0" version_id="0" version_string=""><![CDATA[AIM név]]></phrase>
   <phrase title="identity_service_hint_facebook" addon_id="" global_cache="0" version_id="0" version_string=""><![CDATA[User ID or vanity name]]></phrase>
   <phrase title="identity_service_hint_gtalk" addon_id="" global_cache="0" version_id="0" version_string=""><![CDATA[Google Talk ID]]></phrase>
   <phrase title="identity_service_hint_icq" addon_id="" global_cache="0" version_id="0" version_string=""><![CDATA[ICQ szám / UIN]]></phrase>
@@ -146,7 +146,7 @@
   <phrase title="included_template_variable_mappings_must_include_from_and_to_attributes" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Included template variable mappings must include from and to attributes.]]></phrase>
   <phrase title="include_this_option_in_backups" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Include this option in backups]]></phrase>
   <phrase title="incorrect_arguments" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Incorrect arguments]]></phrase>
-  <phrase title="incorrect_password" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Incorrect password. Please try again.]]></phrase>
+  <phrase title="incorrect_password" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Hibás jelszó. Próbáld újra.]]></phrase>
   <phrase title="indent" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Indent]]></phrase>
   <phrase title="information" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Információ]]></phrase>
   <phrase title="inherit" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Inherit]]></phrase>
@@ -231,7 +231,7 @@
   <phrase title="last_message" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Utolsó üzenet]]></phrase>
   <phrase title="last_message_by_x" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Last message by {name}]]></phrase>
   <phrase title="last_message_time" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Last message time]]></phrase>
-  <phrase title="last_modified" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Last Modified]]></phrase>
+  <phrase title="last_modified" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Legutóbb módosított]]></phrase>
   <phrase title="last_post" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Last Post]]></phrase>
   <phrase title="last_reply_by_x" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Last reply by {name}]]></phrase>
   <phrase title="last_reply_date" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Last Reply Date]]></phrase>
@@ -261,7 +261,7 @@
   <phrase title="likes_your_profile_post" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Likes your profile post]]></phrase>
   <phrase title="likes_youve_received" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Kapott Lájkok]]></phrase>
   <phrase title="likes_you_and_user1_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Te, és {user1} lájkoljátok.]]></phrase>
-  <phrase title="likes_you_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[You like this.]]></phrase>
+  <phrase title="likes_you_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Lájkolom.]]></phrase>
   <phrase title="likes_you_user1_and_user2_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[You, {user1} and {user2} like this.]]></phrase>
   <phrase title="likes_you_user1_user2_and_1_other_like_this" addon_id="XenForo" global_cache="1" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[You, {user1}, {user2} and <a href="{likesLink}" class="OverlayTrigger">1 other person</a> like this.]]></phrase>
   <phrase title="likes_you_user1_user2_and_x_others_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[You, {user1}, {user2} and <a href="{likesLink}" class="OverlayTrigger">{others} others</a> like this.]]></phrase>
