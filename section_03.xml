@@ -1,8 +1,8 @@
 <phrase title="db_queries" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Adatbázis lekérdezések]]></phrase>
   <phrase title="decimal_point_character" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Decimal Point Character]]></phrase>
   <phrase title="default" addon_id="XenForo" global_cache="0" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Alapértelmezett]]></phrase>
-  <phrase title="default_url" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Default URL]]></phrase>
-  <phrase title="default_value" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Default Value]]></phrase>
+  <phrase title="default_url" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Alapértelmezett URL]]></phrase>
+  <phrase title="default_value" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Alapértelmezett Value]]></phrase>
   <phrase title="define_new_style_property" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Define New Style Property]]></phrase>
   <phrase title="delete" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Töröl]]></phrase>
   <phrase title="deleted" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Törölve]]></phrase>
@@ -205,10 +205,10 @@
   <phrase title="enter_your_password_in_first_box_and_confirm_it_in_second" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Enter your password in the first box and confirm it in the second.]]></phrase>
   <phrase title="enter_your_search_and_hit_enter" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Enter your search and hit enter]]></phrase>
   <phrase title="error" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hiba]]></phrase>
-  <phrase title="error_info" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Error Info]]></phrase>
+  <phrase title="error_info" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Hiba információ]]></phrase>
   <phrase title="error_occurred_or_request_stopped" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[An error occurred or the request was stopped.]]></phrase>
   <phrase title="error_occurred_while_connecting_with_facebook" addon_id="XenForo" global_cache="0" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[An error occurred while connecting with Facebook. Please try again later.]]></phrase>
-  <phrase title="event_id" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Event ID]]></phrase>
+  <phrase title="event_id" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Esemény ID]]></phrase>
   <phrase title="example" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Példa]]></phrase>
   <phrase title="execute_callback" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Execute Callback]]></phrase>
   <phrase title="existing_attachments" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Existing Attachments]]></phrase>

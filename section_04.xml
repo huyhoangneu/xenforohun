@@ -248,20 +248,20 @@
   <phrase title="left" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Left]]></phrase>
   <phrase title="length" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Length]]></phrase>
   <phrase title="lift_ban" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Lift Ban]]></phrase>
-  <phrase title="like" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Lájk]]></phrase>
-  <phrase title="likes" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Lájkok]]></phrase>
-  <phrase title="likes_received" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Kapott Lájkok]]></phrase>
-  <phrase title="likes_user1_and_user2_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[{user1} és {user2} lájkolja.]]></phrase>
-  <phrase title="likes_user1_likes_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[{user1} lájkolja.]]></phrase>
-  <phrase title="likes_user1_user2_and_user3_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[{user1}, {user2} és {user3} lájkolja.]]></phrase>
+  <phrase title="like" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Tetszik]]></phrase>
+  <phrase title="likes" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Kedvelik]]></phrase>
+  <phrase title="likes_received" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Kedvelik]]></phrase>
+  <phrase title="likes_user1_and_user2_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[{user1} és {user2} kedvelik.]]></phrase>
+  <phrase title="likes_user1_likes_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[{user1} kedveli.]]></phrase>
+  <phrase title="likes_user1_user2_and_user3_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[{user1}, {user2} és {user3} kedvelik.]]></phrase>
   <phrase title="likes_user1_user2_user3_and_1_other_like_this" addon_id="XenForo" global_cache="1" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[{user1}, {user2}, {user3} and <a href="{likesLink}" class="OverlayTrigger">1 other person</a> like this.]]></phrase>
   <phrase title="likes_user1_user2_user3_and_x_others_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[{user1}, {user2}, {user3} and <a href="{likesLink}" class="OverlayTrigger">{others} others</a> like this.]]></phrase>
-  <phrase title="likes_x_people_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[{likes} people like this.]]></phrase>
-  <phrase title="likes_your_message" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lájkolják az üzenetedet]]></phrase>
-  <phrase title="likes_your_profile_post" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Likes your profile post]]></phrase>
+  <phrase title="likes_x_people_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[{likes} ember kedveli.]]></phrase>
+  <phrase title="likes_your_message" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Kedvelik az üzenetedet]]></phrase>
+  <phrase title="likes_your_profile_post" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Kedvelik a profil hozzászólásodat]]></phrase>
   <phrase title="likes_youve_received" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Kapott Lájkok]]></phrase>
-  <phrase title="likes_you_and_user1_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Te, és {user1} lájkoljátok.]]></phrase>
-  <phrase title="likes_you_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Lájkolom.]]></phrase>
+  <phrase title="likes_you_and_user1_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Te, és {user1} kedvelitek.]]></phrase>
+  <phrase title="likes_you_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Kedvelem.]]></phrase>
   <phrase title="likes_you_user1_and_user2_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[You, {user1} and {user2} like this.]]></phrase>
   <phrase title="likes_you_user1_user2_and_1_other_like_this" addon_id="XenForo" global_cache="1" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[You, {user1}, {user2} and <a href="{likesLink}" class="OverlayTrigger">1 other person</a> like this.]]></phrase>
   <phrase title="likes_you_user1_user2_and_x_others_like_this" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[You, {user1}, {user2} and <a href="{likesLink}" class="OverlayTrigger">{others} others</a> like this.]]></phrase>
@@ -280,8 +280,8 @@
   <phrase title="list_items_must_specify_label" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[List items must specify a label.]]></phrase>
   <phrase title="list_of_bb_codes_you_can_use_to_spice_up_look_of_your_messages" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[The list of BB codes you can use to spice up the look of your messages. This page shows a list of all BB codes that are available.]]></phrase>
   <phrase title="list_sibling_nodes" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[List Sibling Nodes]]></phrase>
-  <phrase title="loading" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Loading]]></phrase>
-  <phrase title="location" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Location]]></phrase>
+  <phrase title="loading" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Töltés]]></phrase>
+  <phrase title="location" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hely]]></phrase>
   <phrase title="locked" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lezárva]]></phrase>
   <phrase title="lock_conversation" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Lock conversation]]></phrase>
   <phrase title="lock_conversation_no_responses_will_be_allowed" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Lock conversation (no responses will be allowed)]]></phrase>
