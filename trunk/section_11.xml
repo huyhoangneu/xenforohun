@@ -23,7 +23,7 @@
   <phrase title="style_property_subHeadingHover_description_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Occasionally, sub-headings may be used as block-level links. In these cases, this property controls what happens to the sub-heading link on hover.]]></phrase>
   <phrase title="style_property_subHeadingHover_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Sub-Heading, Hover State]]></phrase>
   <phrase title="style_property_subHeading_description_master" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Smaller, more commonly-used headings]]></phrase>
-  <phrase title="style_property_subHeading_master" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Sub-Heading]]></phrase>
+  <phrase title="style_property_subHeading_master" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Alcím]]></phrase>
   <phrase title="style_property_tabActive_description_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls the appearance of the selected tab.]]></phrase>
   <phrase title="style_property_tabActive_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Tab, Selected]]></phrase>
   <phrase title="style_property_tabHover_description_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Controls general tabs in their hover state.]]></phrase>
@@ -38,7 +38,7 @@
   <phrase title="style_property_textCtrlCode_description_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Additional styling to be applied to text controls if they are to contain code rather than regular text.]]></phrase>
   <phrase title="style_property_textCtrlCode_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Control, Monospace / Code]]></phrase>
   <phrase title="style_property_textCtrlDisabled_description_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Additional styling to be applied to text controls in their disabled state.]]></phrase>
-  <phrase title="style_property_textCtrlDisabled_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Control, Disabled State]]></phrase>
+  <phrase title="style_property_textCtrlDisabled_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Szöveg kezelés, letiltott állapot]]></phrase>
   <phrase title="style_property_textCtrlFocus_description_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styling to be applied to text controls when they receive focus.]]></phrase>
   <phrase title="style_property_textCtrlFocus_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Control, Focused State]]></phrase>
   <phrase title="style_property_textCtrlTextareaFocus_description_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Additional styling to be applied to text controls when focused if they are multi-line textarea types.]]></phrase>
@@ -48,21 +48,21 @@
   <phrase title="style_property_textCtrl_description_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Styling to be applied to <input type="text" /> and <textarea> text-editing elements.]]></phrase>
   <phrase title="style_property_textCtrl_master" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Text Control]]></phrase>
   <phrase title="style_property_textHeading_description_master" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[A minor heading]]></phrase>
-  <phrase title="style_property_textHeading_master" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Text-Heading]]></phrase>
+  <phrase title="style_property_textHeading_master" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Szöveg-cím]]></phrase>
   <phrase title="style_property_threadListDescriptions_description_master" addon_id="XenForo" global_cache="0" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Display text underneath the main page title.]]></phrase>
   <phrase title="style_property_threadListDescriptions_master" addon_id="XenForo" global_cache="0" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Show forum descriptions on thread list]]></phrase>
   <phrase title="style_property_tooltipArrow_description_master" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[The extra arrow often shown with tooltips.]]></phrase>
   <phrase title="style_property_tooltipArrow_master" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Tooltip Arrow]]></phrase>
   <phrase title="style_property_tooltipBackground_description_master" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="style_property_tooltipBackground_master" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Tooltip Background]]></phrase>
-  <phrase title="style_property_tooltip_description_master" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[The basic styling for all generic XenForo tooltips.]]></phrase>
+  <phrase title="style_property_tooltipBackground_master" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Tooltip háttér]]></phrase>
+  <phrase title="style_property_tooltip_description_master" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[A XenForo tooltipek alap stílusa.]]></phrase>
   <phrase title="style_property_tooltip_master" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Tooltip]]></phrase>
   <phrase title="style_property_visitorPanelAvatar_description_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Layout for the visitor panel. The image size is controlled by the @visitorPanelAvatarSize property.]]></phrase>
   <phrase title="style_property_visitorPanelAvatar_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Visitor Panel Avatar]]></phrase>
   <phrase title="style_property_visitorPanelStats_description_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
-  <phrase title="style_property_visitorPanelStats_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Visitor Panel Stats]]></phrase>
-  <phrase title="style_property_visitorPanelUsername_description_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[The name of the logged-in visitor.]]></phrase>
-  <phrase title="style_property_visitorPanelUsername_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Visitor Panel Username]]></phrase>
+  <phrase title="style_property_visitorPanelStats_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Látogató panel statisztika]]></phrase>
+  <phrase title="style_property_visitorPanelUsername_description_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[A belépett látogatók neve.]]></phrase>
+  <phrase title="style_property_visitorPanelUsername_master" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Látogató panel felhasználónév]]></phrase>
   <phrase title="subject" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Tárgy]]></phrase>
   <phrase title="submitted_message_is_too_long_to_be_processed" addon_id="XenForo" global_cache="0" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[The submitted message is too long to be processed. Please shorten it.]]></phrase>
   <phrase title="subscribe" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Feliratkozás]]></phrase>
@@ -71,19 +71,19 @@
   <phrase title="super_administrator" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Super Adminisztrátor]]></phrase>
   <phrase title="super_moderator" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Super Moderátor]]></phrase>
   <phrase title="super_moderators" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Super Moderátorok]]></phrase>
-  <phrase title="super_moderator_can_moderate_entire_board" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[A super moderator can moderate the entire board.]]></phrase>
+  <phrase title="super_moderator_can_moderate_entire_board" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[A super moderátor az egész fórumot tudja moderálni.]]></phrase>
   <phrase title="supported_formats_jpeg_png_gif" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Támogatott formátumok: JPEG, PNG, GIF]]></phrase>
   <phrase title="sure_want_to_return_to_viewing_using_your_own_permission_set" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Are you sure you want to return to viewing using your own permission set?]]></phrase>
   <phrase title="sure_you_want_to_delete_this_server_error_log_entry" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Are you sure you want to delete this server error log entry?]]></phrase>
   <phrase title="sure_you_want_to_resend_account_confirmation_email" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Are you sure you want to resend the account confirmation email? Any previous account confirmation emails will no longer function. This email will be sent to {email}.]]></phrase>
   <phrase title="table_prefix" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Tábla Prefix]]></phrase>
-  <phrase title="table_prefix_or_database_name_is_not_correct" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[The table prefix or database name is not correct.]]></phrase>
+  <phrase title="table_prefix_or_database_name_is_not_correct" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[A tábla prefix, vagy az adatbázis név helytelen.]]></phrase>
   <phrase title="template" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sablon]]></phrase>
   <phrase title="templates" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Sablonok]]></phrase>
   <phrase title="templates_importing" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Sablonok (Importálás)]]></phrase>
-  <phrase title="templates_in_this_style_can_not_be_modified" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Templates in this style can not be modified. Please try another.]]></phrase>
+  <phrase title="templates_in_this_style_can_not_be_modified" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Ennek a stílusnak a sablonjai nem szerkeszthetõek. Pórbálj egy másikat.]]></phrase>
   <phrase title="template_code" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sablon kód]]></phrase>
-  <phrase title="template_contains" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Template Contains]]></phrase>
+  <phrase title="template_contains" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sablon tartalmazza]]></phrase>
   <phrase title="template_editor" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sablon Szerkesztõ]]></phrase>
   <phrase title="template_html" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sablon HTML]]></phrase>
   <phrase title="template_name" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sablon Neve]]></phrase>
@@ -92,10 +92,10 @@
   <phrase title="template_tags_not_well_formed" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Template tags are not well-formed. Got unexpected tag &lt;/t:{tag}&gt; when none were expected.]]></phrase>
   <phrase title="template_tags_not_well_formed_expected" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Template tags are not well-formed. Got unexpected tag &lt;/t:{tag}&gt; when expecting &lt;/t:{expected}&gt;]]></phrase>
   <phrase title="template_tags_not_well_formed_none_expected" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Template tags are not well-formed. Got unexpected tag &lt;/t:{tag}&gt; when none were expected.]]></phrase>
-  <phrase title="template_tags_not_well_formed_not_closed" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Template tags are not well-formed. &lt;t:{tag}&gt; was not closed.]]></phrase>
+  <phrase title="template_tags_not_well_formed_not_closed" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[A sablon tag-ek nincsenek jól megformázva. &lt;t:{tag}&gt; nincs lezárva.]]></phrase>
   <phrase title="template_title" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Sablon cím]]></phrase>
   <phrase title="template_titles_must_be_unique" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[A sablon címeknek egyedinek kell lenniük. A megadott cím már használatban van.]]></phrase>
-  <phrase title="template_value_has_not_been_set_properly" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[The template value has not been set properly.]]></phrase>
+  <phrase title="template_value_has_not_been_set_properly" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[A sablon érték nincs jól beállítva.]]></phrase>
   <phrase title="terms_and_rules" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Feltételek és szabályok]]></phrase>
   <phrase title="terms_of_service_and_rules" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Felhasználási feltételek és szabályok]]></phrase>
   <phrase title="terms_rules_text" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<p>A fórum üzemeltetõi ("mi") nem tehetõk felelõssé egyik hozzászólásnak a tartalmáért sem. A közzétett posztok a szerzõ nézeteit tükrözik.</p>
@@ -617,7 +617,7 @@ To manage the threads you watch, click here:
   <phrase title="word_or_phrase" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Word or Phrase]]></phrase>
   <phrase title="write_something" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Write something]]></phrase>
   <phrase title="xenforo_admin_control_panel_requires_javascript" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[The XenForo Admin Control Panel requires JavaScript. Please enable it before proceeding.]]></phrase>
-  <phrase title="xenforo_copyright" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<!--XF:branding--><a href="http://xenforo.com" class="concealed">Forum software by XenForo&trade; &copy;2010 XenForo Ltd.</a> Fordítás: <a href="http://forum.weboldalkeszites.org/" class="concealed">Weboldalkészítés fórum</a><!--/XF:branding-->]]></phrase>
+  <phrase title="xenforo_copyright" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[<!--XF:branding--><a href="http://xenforo.com" class="concealed">Forum szoftver a XenForo&trade;-tól &copy;2010 XenForo Ltd.</a> Fordítás: <a href="http://forum.weboldalkeszites.org/" class="concealed">Weboldal készítés fórum</a><!--/XF:branding-->]]></phrase>
   <phrase title="xenforo_logo" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[XenForo Logo]]></phrase>
   <phrase title="xs_recent_activity" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name}'s Recent Activity]]></phrase>
   <phrase title="x_also_commented_on_ys_profile_post" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} also commented on <a {poster_params}>{poster}'s profile post</a>]]></phrase>
@@ -652,7 +652,7 @@ To manage the threads you watch, click here:
   <phrase title="x_more_messages" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{count} more messages]]></phrase>
   <phrase title="x_per_day" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{cost} per day]]></phrase>
   <phrase title="x_per_month" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{cost} egy hónapra]]></phrase>
-  <phrase title="x_per_year" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{cost} per year]]></phrase>
+  <phrase title="x_per_year" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{cost} per évente]]></phrase>
   <phrase title="x_per_y_days" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{cost} per {length} days]]></phrase>
   <phrase title="x_per_y_months" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{cost} per {length} months]]></phrase>
   <phrase title="x_per_y_years" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[{cost} per {length} years]]></phrase>
@@ -672,13 +672,13 @@ To manage the threads you watch, click here:
   <phrase title="years" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Évek]]></phrase>
   <phrase title="yes" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Igen]]></phrase>
   <phrase title="yesterday" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Tegnap]]></phrase>
-  <phrase title="yesterday_at_x" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Yesterday at {time}]]></phrase>
+  <phrase title="yesterday_at_x" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Tegnap: {time}]]></phrase>
   <phrase title="yes_my_password_is" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Igen, a jelszavam]]></phrase>
   <phrase title="yes_with_email" addon_id="XenForo" global_cache="0" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Yes, with email]]></phrase>
   <phrase title="your_account" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Fiókod]]></phrase>
-  <phrase title="your_account_already_has_password" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Your account already has a password.]]></phrase>
+  <phrase title="your_account_already_has_password" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[A fiókodnak van jelszó beállítva.]]></phrase>
   <phrase title="your_account_could_not_be_confirmed" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Your account could not be confirmed.]]></phrase>
-  <phrase title="your_account_does_not_currently_have_password" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Your account does not currently have a password.]]></phrase>
+  <phrase title="your_account_does_not_currently_have_password" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[A fiókodnak nincs jelszó beállítva.]]></phrase>
   <phrase title="your_account_does_not_currently_have_password_confirm_generate" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Your account does not currently have a password. Are you sure you wish to generate a new password? It will be emailed to {email}.]]></phrase>
   <phrase title="your_account_does_not_have_admin_privileges" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Your account does not have admin privileges.]]></phrase>
   <phrase title="your_account_does_not_require_confirmation" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Your account does not require confirmation.]]></phrase>
