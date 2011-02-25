@@ -28,13 +28,13 @@
   <phrase title="option_group_appearance_description" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[]]></phrase>
   <phrase title="option_group_attachments" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Attachments]]></phrase>
   <phrase title="option_group_attachments_description" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Attachments are files that are uploaded to the board along with messages.]]></phrase>
-  <phrase title="option_group_basicBoard" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Basic Board Information]]></phrase>
+  <phrase title="option_group_basicBoard" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Alap fórum információ]]></phrase>
   <phrase title="option_group_basicBoard_description" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[]]></phrase>
-  <phrase title="option_group_boardActive" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Board Active]]></phrase>
-  <phrase title="option_group_boardActive_description" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Turn your board on and off here.]]></phrase>
-  <phrase title="option_group_censoringOptions" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Censoring]]></phrase>
+  <phrase title="option_group_boardActive" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Fórum aktív]]></phrase>
+  <phrase title="option_group_boardActive_description" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Fórum ki- és bekapcsolása.]]></phrase>
+  <phrase title="option_group_censoringOptions" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Cenzúra]]></phrase>
   <phrase title="option_group_censoringOptions_description" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[User-generated text will be subject to the censorship rules you define here.]]></phrase>
-  <phrase title="option_group_debug" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Debug Options]]></phrase>
+  <phrase title="option_group_debug" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Hibakeresési beállítások]]></phrase>
   <phrase title="option_group_debug_description" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[These options are intended to be directly manipulated solely by the XenForo developers.]]></phrase>
   <phrase title="option_group_discourager" addon_id="XenForo" global_cache="0" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[User Discouragement]]></phrase>
   <phrase title="option_group_discourager_description" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[The 'Discourager' is a system that aims to make the browsing experience of 'discouraged' users as frustrating as possible, with the goal of having them give up and leave.
@@ -42,12 +42,12 @@
 You may set a user into 'discouraged' mode by editing their user profile.]]></phrase>
   <phrase title="option_group_discussionOptions" addon_id="XenForo" global_cache="0" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Threads,  Discussions and Conversations]]></phrase>
   <phrase title="option_group_discussionOptions_description" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Messages are contained within a discussion container, and options relating to these can be found here.]]></phrase>
-  <phrase title="option_group_emailOptions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Email Options]]></phrase>
+  <phrase title="option_group_emailOptions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[E-mail beállítások]]></phrase>
   <phrase title="option_group_emailOptions_description" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
   <phrase title="option_group_facebook" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Facebook]]></phrase>
   <phrase title="option_group_facebook_description" addon_id="XenForo" global_cache="0" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[]]></phrase>
   <phrase title="option_group_ids_must_be_unique" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Option group IDs must be unique. The specified ID is already in use.]]></phrase>
-  <phrase title="option_group_messageOptions" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Messages]]></phrase>
+  <phrase title="option_group_messageOptions" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Üzentek]]></phrase>
   <phrase title="option_group_messageOptions_description" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Options here control messages posted by users to the system, including messages in threads, profile posts, personal conversations etc.]]></phrase>
   <phrase title="option_group_newsfeed" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[News Feed]]></phrase>
   <phrase title="option_group_newsfeed_description" addon_id="XenForo" global_cache="0" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[The news feed, or activity stream is a constantly-updated log of things that your registered members do, which can be viewed back by other visitors.
@@ -198,7 +198,7 @@ Callback arguments:
   <phrase title="permalink" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Permalink]]></phrase>
   <phrase title="permanent" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Permanent]]></phrase>
   <phrase title="permanently_delete" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Permanently delete]]></phrase>
-  <phrase title="permissions" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Jogosultságok]]></phrase>
+  <phrase title="permissions" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Engedélyek]]></phrase>
   <phrase title="permissions_from_x" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Permissions from {name}]]></phrase>
   <phrase title="permission_allow_desc" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[This permission is granted unless a "Deny" value is found in another applicable permission set.]]></phrase>
   <phrase title="permission_avatar_allowed" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Tölts fel egy avatart]]></phrase>
@@ -248,8 +248,8 @@ Callback arguments:
   <phrase title="permission_groups" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Permission Groups]]></phrase>
   <phrase title="permission_group_avatar" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Avatar Permissions]]></phrase>
   <phrase title="permission_group_conversation" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Personal Conversation Permissions]]></phrase>
-  <phrase title="permission_group_forum" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Fórum jogosultságok]]></phrase>
-  <phrase title="permission_group_general" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Általános jogosultságok]]></phrase>
+  <phrase title="permission_group_forum" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Fórum engedélyek]]></phrase>
+  <phrase title="permission_group_general" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Általános engedélyek]]></phrase>
   <phrase title="permission_group_id" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Permission Group ID]]></phrase>
   <phrase title="permission_group_ids_must_be_unique" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Permission group IDs must be unique. The specified ID ({groupId}) is already in use.]]></phrase>
   <phrase title="permission_group_profilePost" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Profile Post Permissions]]></phrase>
@@ -259,14 +259,14 @@ Callback arguments:
   <phrase title="permission_interface_avatarPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Avatar Permissions]]></phrase>
   <phrase title="permission_interface_conversationModeratorPermissions" addon_id="XenForo" global_cache="0" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Personal Conversation Moderator Permissions]]></phrase>
   <phrase title="permission_interface_conversationPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Personal Conversation Permissions]]></phrase>
-  <phrase title="permission_interface_forumModeratorPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Forum Moderator Permissions]]></phrase>
-  <phrase title="permission_interface_forumPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Fórum jogosultságok]]></phrase>
-  <phrase title="permission_interface_generalModeratorPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[General Moderator Permissions]]></phrase>
-  <phrase title="permission_interface_generalPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Általános jogosultságok]]></phrase>
+  <phrase title="permission_interface_forumModeratorPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Fórum moderátor engedélyek]]></phrase>
+  <phrase title="permission_interface_forumPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Fórum engedélyek]]></phrase>
+  <phrase title="permission_interface_generalModeratorPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Alap moderátor engedélyek]]></phrase>
+  <phrase title="permission_interface_generalPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Általános engedélyek]]></phrase>
   <phrase title="permission_interface_group_ids_must_be_unique" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Permission interface group IDs must be unique. The specified ID is already in use.]]></phrase>
   <phrase title="permission_interface_postAttachmentPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Post Attachment Permissions]]></phrase>
-  <phrase title="permission_interface_profilePostModeratorPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Profile Post Moderator Permissions]]></phrase>
-  <phrase title="permission_interface_profilePostPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Profile Post Permissions]]></phrase>
+  <phrase title="permission_interface_profilePostModeratorPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Profile hozzászólás moderátor engedélyek]]></phrase>
+  <phrase title="permission_interface_profilePostPermissions" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Profil hozzászólás engedélyek]]></phrase>
   <phrase title="permission_profilePost_approveUnapprove" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Approve / unapprove profile posts]]></phrase>
   <phrase title="permission_profilePost_deleteAny" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Delete profile posts by anyone]]></phrase>
   <phrase title="permission_profilePost_deleteOwn" addon_id="XenForo" global_cache="0" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Delete profile posts by self]]></phrase>
