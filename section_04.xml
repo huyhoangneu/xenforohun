@@ -283,9 +283,9 @@
   <phrase title="loading" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Töltés]]></phrase>
   <phrase title="location" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Hely]]></phrase>
   <phrase title="locked" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lezárva]]></phrase>
-  <phrase title="lock_conversation" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Lock conversation]]></phrase>
+  <phrase title="lock_conversation" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Beszélgetés lezárása]]></phrase>
   <phrase title="lock_conversation_no_responses_will_be_allowed" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Lock conversation (no responses will be allowed)]]></phrase>
-  <phrase title="lock_threads" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lock Threads]]></phrase>
+  <phrase title="lock_threads" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Témák lezárása]]></phrase>
   <phrase title="login_required" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Be kell jelentkezned ahhoz, hogy ezt megtehesd.]]></phrase>
   <phrase title="login_with_facebook" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Bejelentkezés a Facebookkal]]></phrase>
   <phrase title="log_and_count_visits_to_this_page" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Log and count visits to this page]]></phrase>
