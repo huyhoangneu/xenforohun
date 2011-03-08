@@ -144,7 +144,7 @@
   <phrase title="this_is_how_you_will_refer_to_property_in_template" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[This is how you will refer to the property in a template.]]></phrase>
   <phrase title="this_is_list_of_all_members_registered_at_x" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[This is a list of all members registered at {board_title}.]]></phrase>
   <phrase title="this_is_list_of_all_threads_that_you_watching" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[This is a list of all the threads that you are watching.]]></phrase>
-  <phrase title="this_is_list_of_all_visitors_currently_browsing_x" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[This is a list of all visitors currently browsing {board_title}.]]></phrase>
+  <phrase title="this_is_list_of_all_visitors_currently_browsing_x" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Lista az összes jelenlegi látogatóról, aki a(z) {board_title} fórumot böngészi.]]></phrase>
   <phrase title="this_is_list_of_x_most_recently_updated_threads_unread_replies" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[This is a list of the {count} most recently-updated threads with unread replies that you are watching.]]></phrase>
   <phrase title="this_is_name_that_will_be_shown_with_your_messages" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[This is the name that will be shown with your messages. You may use any name you wish. Once set, this cannot be changed.]]></phrase>
   <phrase title="this_is_not_recognised_instant_messaging_service" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[This is not a recognised instant messaging service.]]></phrase>
@@ -166,10 +166,10 @@
   <phrase title="this_template_can_not_be_modified" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Ez a sablon nem módosítható.]]></phrase>
   <phrase title="this_thread_started_by_x_has_been_deleted" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} által indított téma törlésre került.]]></phrase>
   <phrase title="this_user_is_already_banned" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[This user is already banned. Please edit or delete the existing ban record instead.]]></phrase>
-  <phrase title="this_user_is_an_admin_or_moderator_choose_another" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[This user is an admin or moderator. Please choose a different user.]]></phrase>
+  <phrase title="this_user_is_an_admin_or_moderator_choose_another" addon_id="XenForo" global_cache="0" version_id="0" version_string=""><![CDATA[Ez a felhasználó admin, vagy moderátor. Válassz egy másik felhasználót.]]></phrase>
   <phrase title="this_will_allow_other_people_to_see_what_page_you_currently_viewing" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[This will allow other people to see what page you are currently viewing.]]></phrase>
-  <phrase title="this_will_allow_people_to_see_your_age" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[This will allow people to see your age.]]></phrase>
-  <phrase title="this_will_be_shown_to_users" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[This will be shown to users.]]></phrase>
+  <phrase title="this_will_allow_people_to_see_your_age" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Engedélyezi, hogy látszódjon az életkorod.]]></phrase>
+  <phrase title="this_will_be_shown_to_users" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Ezt a felhasználók fogják látni.]]></phrase>
   <phrase title="this_will_be_shown_to_user_if_provided" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[This will be shown to the user if provided.]]></phrase>
   <phrase title="this_will_be_used_to_identify_media_site_to_load_in_bb_code" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[This will be used to identify the media site to load in the BB code.]]></phrase>
   <phrase title="this_will_not_remove_any_content_this_user_has_already_created" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[This will not remove any content this user has already created.]]></phrase>
@@ -191,14 +191,14 @@
   <phrase title="time_am_lower" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[am]]></phrase>
   <phrase title="time_am_upper" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[AM]]></phrase>
   <phrase title="time_format" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Idõformátum]]></phrase>
-  <phrase title="time_pm_lower" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[pm]]></phrase>
-  <phrase title="time_pm_upper" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[PM]]></phrase>
+  <phrase title="time_pm_lower" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[du]]></phrase>
+  <phrase title="time_pm_upper" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[DU]]></phrase>
   <phrase title="time_zone" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Idõzóna]]></phrase>
   <phrase title="timing" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Timing]]></phrase>
   <phrase title="title" addon_id="XenForo" global_cache="0" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Cím]]></phrase>
   <phrase title="title_alphabetical" addon_id="XenForo" global_cache="0" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Title (alphabetical)]]></phrase>
   <phrase title="title_case" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Title case]]></phrase>
-  <phrase title="title_contains" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Title Contains]]></phrase>
+  <phrase title="title_contains" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Cím tartalmazza]]></phrase>
   <phrase title="today" addon_id="XenForo" global_cache="1" version_id="0" version_string=""><![CDATA[Ma]]></phrase>
   <phrase title="today_at_x" addon_id="XenForo" global_cache="0" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Ma {time} -kor]]></phrase>
   <phrase title="tools" addon_id="XenForo" global_cache="0" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Eszközök]]></phrase>
