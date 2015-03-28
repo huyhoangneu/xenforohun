@@ -1,0 +1,1 @@
+Translate the entire xenForo system.
